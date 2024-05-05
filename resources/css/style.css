@@ -1,0 +1,21 @@
+.home img{
+
+        width: 200px; /* Atur lebar sesuai kebutuhan */
+        height: 200px; /* Atur tinggi sesuai kebutuhan */
+        overflow: hidden;
+        border-radius: 50%; /* Membuat sudut menjadi bulat */
+    }
+
+    .rounded-img {
+        width: 100%; /* Menyesuaikan lebar dengan container */
+        height: auto; /* Menyesuaikan tinggi dengan container */
+        display: block;
+    }
+
+.home .container {
+    background-color: blanchedalmond;
+}
+
+.navbar {
+    background-color: rgb(255, 201, 190);
+}
